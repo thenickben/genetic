@@ -5,6 +5,7 @@ Simple Password cracking using Genetic Algorithms and Monte Carlo Simulations
 
 Change the password in mypass.py, e.g. mypassword="nicolasborrajo", and run main.py to obtain the population after N evolution cycles along with their scorings
 
+```
 C:\Users\nbbor\Desktop\ML\Genetic>python main.py
 nicolasborrajo    100.0
 nicolauborrajo    92.85714285714286
@@ -31,3 +32,4 @@ nicmbauborzajo    71.42857142857143
 licmlasbobzajo    71.42857142857143
 licmbasborzajo    71.42857142857143
 uiambasborzajo    64.28571428571429
+```
